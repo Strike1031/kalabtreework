@@ -1,0 +1,11 @@
+.my-navbar {
+    z-index: -1;
+    /* top: 0; */
+    width: 100%;
+    position:absolute;
+}
+
+.my-navlink {
+    margin: 50px 20px;
+    font-weight: bold;
+}
